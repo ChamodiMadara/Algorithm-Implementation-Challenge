@@ -49,7 +49,7 @@ The goal of this project was to solve the coding challenges provided in the fina
 
 - **Language**: Python
 - **IDE**: [e.g., PyCharm, VSCode]
-- **Libraries**: None (unless specific libraries are used, include them here).
+- **Libraries**: None (the script uses only built-in Python modules like `os` and `sys`).
 
 ---
 
